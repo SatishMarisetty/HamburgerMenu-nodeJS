@@ -1,0 +1,14 @@
+input{
+    border-radius: 5px;
+    height: 50vh;
+    width: 50vw;
+    font-size: larger;
+}
+form{
+    margin: 24px 0px 24px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
